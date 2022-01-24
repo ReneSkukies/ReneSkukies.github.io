@@ -1,0 +1,32 @@
+<div class="page-wrap">   <!-- closed in foot.html -->
+  <!-- SIDE BAR -->
+  <div class="side-bar">
+    <div class="header">
+      <a href="/" class="title">
+        TheNeuroCookies
+      </a>
+    </div>
+    <label for="show-menu" class="show-menu">MENU</label>
+    <input type="checkbox" id="show-menu" role="button">
+    <div class="menu" id="side-menu">
+      <ul class="menu-list"> <!--Change for different Menue here-->
+        <li class="menu-list-item {{ispage index}}active{{end}}"><a href="/" class="menu-list-link {{ispage index}}active{{end}}">Home</a>
+        <li class="menu-list-item {{ispage blog/*}}active{{end}}"><a href="/blog/" class="menu-list-link {{ispage blog}}active{{end}}">Blog</a>
+          <ul class="menu-list-child-list ">
+            <li class="menu-list-item "><a href="/science.md" class="menu-list-link">Science</a>
+            <li class="menu-list-item "><a href="meta_science.md" class="menu-list-link">Meta-Science</a>
+          </ul>
+        <li class="menu-list-item {{ispage teaching/*}}active{{end}}"><a href="/teaching/" class="menu-list-link {{ispage teaching}}active{{end}}">Teaching Resources</a>
+        <li class="menu-list-item {{ispage AboutMe/*}}active{{end}}"><a href="/AboutMe/" class="menu-list-link {{ispage AboutMe}}active{{end}}">About Me</a>
+      </ul>
+    </div>
+    <div class="footer">
+      Made with <em>Just the docs</em>, adapted from the <a href="https://github.com/pmarsceill/just-the-docs" target="_blank">Jekyll theme</a>.
+    </div>
+  </div>
+  <!-- CONTENT -->
+  <div class="main-content-wrap"> <!-- closed in foot.html -->
+    <div class="main-content">    <!-- closed in foot.html -->
+      <div class="main-header">
+        <!--<a id="github" href="//github.com/tlienart/Franklin.jl">Franklin on GitHub</a>--> <!-- Link top right corner -->
+      </div>
