@@ -39,7 +39,7 @@
 
 ## Contact Me/ Find Me Elsewhere
 
-Mail: reneskuk[at]gmail[dot]com
+Mail: [reneskuk@gmail.com](mailto:reneskuk@gmail.com)
 
 Twitter: [@theNeuroCookies](https://twitter.com/theNeuroCookies)
 
