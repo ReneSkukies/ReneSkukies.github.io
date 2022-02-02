@@ -4,7 +4,7 @@
 @def rss_title = "the NeuroCookies Blog"
 @def rss_pubdate = Date(2021, 5, 1)
 
-@def tags = ["syntax", "code", "image"]
+@def tags = ["Blog"]
 
 # Blog
 

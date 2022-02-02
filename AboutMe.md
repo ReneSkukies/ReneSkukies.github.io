@@ -1,5 +1,5 @@
 @def title = "AboutMe"
-@def tags = ["Me", "contact", "Personal"]
+@def tags = ["Me", "contact", "Personal", "about"]
 
 # This is Me!
 
