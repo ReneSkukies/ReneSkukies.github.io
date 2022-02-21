@@ -31,7 +31,7 @@
 *2020 - Present*: Dr. rer. nat./ PhD Computational Cognitive Science; University of Stuttgart - SimTech
 
 *2018 - 2020*: M.Phil. Cognitive Neuroscience; University of Oslo \
-*Thesis: ['Validation of measures of consciousness using Propofol anesthesia'](https://www.duo.uio.no/handle/10852/79300?show=full)* \
+*Thesis: ['Validation of measures of consciousness using Propofol anaesthesia'](https://www.duo.uio.no/handle/10852/79300?show=full)* \
 <!--Can be found  [here](https://www.duo.uio.no/handle/10852/79300?show=full)-->
 
 *2014 - 2017*: B.Sc. Psychology; Innsbruck University \
