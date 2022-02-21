@@ -60,6 +60,8 @@ html {
 }
 
 .page-foot {
+  position: absolute;
+  bottom: 0;
   font-size: 80%;
   font-family: Arial, serif;
   color: #a6a2a0;
