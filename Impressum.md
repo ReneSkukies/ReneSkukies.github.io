@@ -18,8 +18,8 @@ E-Mail: reneskuk [at] gmail [dot] com
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 René Skukies \
-Barchetstr. 10 \
-701569 Stuttgart
+Universitätsstraße 32 \
+70569 Stuttgart
 
 ## Haftungsausschluss:
 
