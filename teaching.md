@@ -4,7 +4,8 @@ title = "teaching"
 @def tags = ["teaching", "courses"]
 
 # Teaching Ressources
-Soon you will find courses I taught here.
+
+[How (not) to do Science - Philosphy of Research in Cognitive Science](/TeachingRessources/PoRiCS.md)
 
 <!-- -------------------------Things below here are part of the standard Franklin tutorial; for now kept as potential help/ reference-------------------- -->
 
