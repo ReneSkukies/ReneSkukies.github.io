@@ -23,3 +23,5 @@ Generalizability Crisis |The Generalizability Crisis | [https://psyarxiv.com/jqw
 Ethics |Ethical principles in machine learning and artificial intelligence: cases from the field and possible ways forward| [https://www.nature.com/articles/s41599-020-0501-9](https://www.nature.com/articles/s41599-020-0501-9) |
 
 **Note:** This course was taught at a University heavily influenced by computer science/ML/AI, thus two sessions (Reproducibility in ML & Ethics) are specifically tailored towards computer science students.
+
+This course was taught together with Judith Schepers and Benedikt Ehinger.
