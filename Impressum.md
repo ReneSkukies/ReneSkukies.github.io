@@ -11,7 +11,7 @@ René Skukies\
 Barchetstr. 10\
 701569 Stuttgart
 
-## Kontakt:
+## Kontakt: 
 Telefon: 0177-1677434 \
 E-Mail: science@reneskukies.de
 
