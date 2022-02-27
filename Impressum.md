@@ -13,7 +13,7 @@ Barchetstr. 10\
 
 ## Kontakt:
 Telefon: 0177-1677434 \
-E-Mail: reneskuk [at] gmail [dot] com
+E-Mail: science@reneskukies.de
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
