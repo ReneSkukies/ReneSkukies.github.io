@@ -3,6 +3,7 @@
 # Impressum
 
 ## Disclaimer
+
 Wondering if you can use any of the material on the website? Everything I personally made will be under the [CC-BY licence](https://creativecommons.org/licenses/by/3.0/de/legalcode), i.e. as long as you name me as author you should be good to go. If you're still unsure, just send me a message.
 
 ## Angaben gemäß § 5 TMG
@@ -12,6 +13,7 @@ Barchetstr. 10\
 701569 Stuttgart
 
 ## Kontakt: 
+
 Telefon: 0177-1677434 \
 E-Mail: science@reneskukies.de
 
@@ -42,6 +44,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
 
 ## Bildrechte
+
 Icon8, https://icons8.com/icon/119357/cookie \
 Max Kovalenko, https://www.maxkovalenko.com/
 
