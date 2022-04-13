@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "The NeuroCookies"
 website_descr = "To be added later"
-website_url   = "https://ReneSkukies.github.io/"
+website_url   = "https://reneskukies.de/"
 +++
 
 <!--
