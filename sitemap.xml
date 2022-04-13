@@ -2,57 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://ReneSkukies.github.io/404/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/blog/index.html</loc>
+    <lastmod>2022-02-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/Impressum/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/404/index.html</loc>
+    <lastmod>2021-11-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/science/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/meta_science/index.html</loc>
+    <lastmod>2022-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/AboutMe/index.html</loc>
+    <lastmod>2022-02-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/TeachingRessources/PoRiCS/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/science/index.html</loc>
+    <lastmod>2022-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/blog/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/Impressum/index.html</loc>
+    <lastmod>2022-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/AboutMe/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/index.html</loc>
+    <lastmod>2022-02-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://ReneSkukies.github.io/teaching/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://ReneSkukies.github.io/meta_science/index.html</loc>
-    <lastmod>2022-02-27</lastmod>
+    <loc>https://reneskukies.de/teaching/index.html</loc>
+    <lastmod>2022-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 </urlset>
+
