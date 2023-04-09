@@ -5,15 +5,16 @@ title = "teaching"
 
 # Teaching Ressources
 
+## Courses
+
 [How (not) to do Science - Philosphy of Research in Cognitive Science](/TeachingRessources/PoRiCS.md)
 
-# Pluto Notebooks
+## Pluto Notebooks
 
 A while ago I organized a small workshop on overlap correction and Unfold. To make it more interactively I created a Pluto notebook, which you can freely explore yourself here: [https://github.com/ReneSkukies/PlutoNotebooks](https://github.com/ReneSkukies/PlutoNotebooks)
 
 If I make more such interactive explorations I will add them as well.
 <!-- -------------------------Things below here are part of the standard Franklin tutorial; for now kept as potential help/ reference-------------------- -->
-
 
 <!-- 
 # Working with code blocks
@@ -72,16 +73,13 @@ Random.seed!(1) # hide
 
 \output{./code/ex3}
 
-
 ## Including scripts
 
 Another approach is to include the content of a script that has already been executed.
 This can be an alternative to the description above if you'd like to only run the code once because it's particularly slow or because it's not Julia code.
 For this you can use the `\input` command specifying which language it should be tagged as:
 
-
 \input{julia}{/_assets/scripts/script1.jl} <!--_->
-
 
 these scripts can be run in such a way that their output is also saved to file, see `scripts/generate_results.jl` for instance, and you can then also input the results:
 
