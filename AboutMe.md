@@ -3,7 +3,7 @@
 
 # This is Me!
 
-~~~
+~~~html
 <div class="row">
   <div class="container">
         <div class="right">
@@ -46,7 +46,6 @@ GitHub: [René Skukies](https://github.com/ReneSkukies)
 
 *2014 - 2017*: B.Sc. Psychology; Innsbruck University \
 *Thesis: 'Leader-Member-Exchange and Right-Wing-Authoritarianism: A political concept in an organisational setting'*
-
 
 
 ## Publications
