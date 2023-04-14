@@ -7,7 +7,9 @@ title = "teaching"
 
 ## Courses
 
-[How (not) to do Science - Philosphy of Research in Cognitive Science](/TeachingRessources/PoRiCS.md)
+[How (not) to do Science - Philosphy of Research in Cognitive Science](https://www.s-ccs.de/teaching-resources/philosophy-of-science/)
+
+>**Note:** This will redirect to the Stuttgart - Computational Cognitive Science website.
 
 ## Pluto Notebooks
 

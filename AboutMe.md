@@ -3,7 +3,7 @@
 
 # This is Me!
 
-~~~html
+~~~
 <div class="row">
   <div class="container">
         <div class="right">
@@ -26,7 +26,7 @@
     <div style="clear: both"></div>      
   </div>
 </div>
-~~~ 
+~~~
 
 ## Contact Me/ Find Me Elsewhere
 
