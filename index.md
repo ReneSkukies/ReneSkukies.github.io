@@ -5,7 +5,7 @@
 
 Welcome to my Website! It is mainly thought of as a fun little project. 
 
-This includes me trying to ~~~maintain a fairly active blog~~ (Update 2024: that really didn't work out so far...), where I will give my two cents on various [scientific](/science/) as well as  [meta-scientific](/meta_science/) topics (e.g. mental health; climate justice in academia). 
+This includes me trying to ~~maintain a fairly active blog~~ (Update 2024: that really didn't work out so far...), where I will give my two cents on various [scientific](/science/) as well as  [meta-scientific](/meta_science/) topics (e.g. mental health; climate justice in academia). 
 
 <!-- I'm also planning to make all the [teaching resources](/teaching/) I come up with available. --> 
 
