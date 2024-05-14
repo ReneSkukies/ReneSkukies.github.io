@@ -50,6 +50,11 @@ GitHub: [René Skukies](https://github.com/ReneSkukies)
 
 ## Publications
 
+Mikheev, V., Skukies, R., & Ehinger, B. V. (2024). The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. Aperture Neuro, 4. <https://doi.org/10.52294/001c.116386>
+
+Skukies, R., & Ehinger, B. V. (2023). The effect of estimation time window length on overlap correction in EEG data (p. 2023.06.05.543689). bioRxiv. <https://doi.org/10.1101/2023.06.05.543689>
+
+
 Skukies, R., & Ehinger, B. (2021). Modelling event duration and overlap during EEG analysis. Journal of Vision, 21(9), 2037. <https://doi.org/10.1167/jov.21.9.2037>
 
 Skukies, R. S. (2020). Validation of Measures of Consciousness using Propofol Anesthesia [Master thesis]. <https://www.duo.uio.no/handle/10852/79300>
