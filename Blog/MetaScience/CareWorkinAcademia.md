@@ -1,3 +1,7 @@
+@def robots_disallow_this_page = true
++++
+sitemap_exclude = false
++++
 # Care Work in Academia
 
 Quite recently I became aware that the concept of care-work(CW) is not really known in my academic environment. Yet, while CW is often forgotten or not known we all benefit from it. 
