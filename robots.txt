@@ -1,4 +1,4 @@
 Sitemap: https://reneskukies.de/sitemap.xml
 
 User-agent: *
-Disallow:
+Disallow: /Blog/MetaScience/CareWorkinAcademia/index.html
