@@ -50,7 +50,9 @@ GitHub: [René Skukies](https://github.com/ReneSkukies)
 
 ## Publications
 
-**Skukies, R.**, Schepers, J. & Ehinger, B. (2024). Brain responses vary in duration - modeling strategies and challenges. bioRxiv. <https://doi.org/10.1101/2024.12.05.626938>
+**René Skukies**, Judith Schepers, Benedikt Ehinger; Brain responses vary in duration - modeling strategies and challenges. Imaging Neuroscience 2025; doi: https://doi.org/10.1162/IMAG.a.1003
+
+Bajwa, I.J., Nilsen, A.S., **Skukies, R.** et al. A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation. Sci Rep 15, 32746 (2025). https://doi.org/10.1038/s41598-025-12695-z
 
 Mikheev, V., **Skukies, R.**, & Ehinger, B. V. (2024). The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. Aperture Neuro, 4. <https://doi.org/10.52294/001c.116386>
 
