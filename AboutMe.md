@@ -15,7 +15,7 @@
     <p>
     Hey, <br>
     <br>
-    my name is René Skukies. Currently, I am a PhD Student in the Computational Cognitive Science group. We are situated at the University of Stuttgart and part of the <a href="https://www.simtech.uni-stuttgart.de"> SimTech Institute</a>. My CV (as of 03.2023) can be found <a href="https://kdrive.infomaniak.com/app/share/697625/d53a1268-132e-4605-bd2f-7e34c683529c"> here</a>.
+    my name is René Skukies. Currently, I am a PhD Student in the Computational Cognitive Science group. We are situated at the University of Stuttgart and part of the <a href="https://www.simtech.uni-stuttgart.de"> SimTech Institute</a>. My CV (as of 01.2026) can be found <a href="https://kdrive.infomaniak.com/app/share/697625/d7c413f4-7fae-4ea7-9747-992462a57da3"> here</a>.
     <br>
     <br>
     I am interested in, and working on the development and validation of new neuroscientific methods, specifically for signal analysis of M/EEG recordings. The main focus of my PhD is to investigate the uses and further developments of the regression-ERP approach. I am additionally interested in (multimodal) perception, awareness and consciousness.
