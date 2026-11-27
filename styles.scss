@@ -1,0 +1,52 @@
+/*-- scss:defaults --*/
+// Ported from the Franklin "Just the docs" theme (jtd.css)
+$body-color: #5c5962;
+$body-bg: #ffffff;
+$headings-color: #27262b;
+$link-color: #0e39b0;
+$link-decoration: none;
+$code-bg: #f5f6fa;
+$font-family-sans-serif: -apple-system, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+$font-size-root: 19px;
+$sidebar-bg: #f5f6fa;
+
+/*-- scss:rules --*/
+@media (max-width: 500px) {
+  html { font-size: 15px; }
+}
+
+#quarto-sidebar,
+.sidebar.sidebar-navigation {
+  background-color: #f5f6fa;
+  background-image: url("/assets/background/swiss.jpg");
+  background-size: auto;
+}
+
+.sidebar-title a,
+.sidebar-title {
+  color: #000000 !important;
+  font-size: 18px;
+}
+
+.sidebar-item { font-size: 14px; }
+
+blockquote {
+  background: lemonchiffon;
+  border-left: 7px solid #a8a8a8;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  font-style: italic;
+}
+blockquote p { display: inline; }
+
+.about-portrait {
+  float: right;
+  margin: 0 0 1em 1em;
+  text-align: center;
+  img { border-radius: 10px; max-width: 100%; height: auto; }
+}
+
+table { margin-left: auto; margin-right: auto; }
+th, td { font-size: 14px; }
+
+.sidebar-footer { font-size: 13px; }
