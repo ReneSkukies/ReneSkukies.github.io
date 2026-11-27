@@ -2,6 +2,7 @@ project:
   pre-render: scripts/fetch-publications.ts
   render:
     - "*.qmd"
+    - "!blog/"  # blog hidden for now; remove this line and re-add the sidebar entry to re-enable
   type: website
   output-dir: _site
   resources:
@@ -20,8 +21,6 @@ website:
     contents:
       - text: Home
         href: index.qmd
-      - text: Blog
-        href: blog/index.qmd
       - text: Teaching Resources
         href: teaching/index.qmd
       - text: About Me
