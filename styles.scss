@@ -64,3 +64,12 @@ details.fold {
   }
   &[open] > summary { margin-bottom: 1rem; }
 }
+
+// Publications: hanging indent + spacing so single entries stand out
+#refs .csl-entry {
+  padding-left: 1.75em;
+  text-indent: -1.75em;
+  margin-bottom: 0.9em;
+  line-height: 1.4;
+}
+#refs .csl-entry:last-child { margin-bottom: 0; }
