@@ -1,4 +1,5 @@
 project:
+  pre-render: scripts/fetch-publications.ts
   render:
     - "*.qmd"
   type: website

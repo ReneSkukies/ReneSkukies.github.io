@@ -2,6 +2,8 @@ name: Build and Deploy
 on:
   push:
     branches: [main, master]
+  schedule:
+    - cron: "0 5 * * 1" # weekly: refresh publications from ORCID
   workflow_dispatch:
 permissions:
   contents: write
@@ -11,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: quarto-dev/quarto-actions/setup@v2
+      # publications.json is regenerated from ORCID by the pre-render script
+      # (scripts/fetch-publications.ts, run through Quarto's bundled Deno).
       - uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages

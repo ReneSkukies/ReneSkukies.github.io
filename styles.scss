@@ -49,3 +49,18 @@ blockquote p { display: inline; }
 table { margin-left: auto; margin-right: auto; }
 th, td { font-size: 14px; }
 
+
+// Collapsible sections (Education, Publications): look like h2 headings
+details.fold {
+  margin: 1rem 0;
+  border-bottom: 1px solid #eeebee;
+  padding-bottom: 0.5rem;
+  > summary {
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: $headings-color;
+    margin-bottom: 0.5rem;
+  }
+  &[open] > summary { margin-bottom: 1rem; }
+}

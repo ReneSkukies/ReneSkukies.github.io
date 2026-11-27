@@ -1,5 +1,11 @@
 ---
 title: "This is Me!"
+bibliography: ../publications.json
+csl: ../apa.csl
+nocite: |
+  @*
+filters:
+  - ../bold-author.lua
 ---
 
 ::: {.about-portrait}
@@ -23,13 +29,14 @@ Lastly, if I'm not doing science I enjoy hiking, climbing, bee keeping and gener
 
 Mail: [science@reneskukies.de](mailto:science@reneskukies.de)
 
-BlueSky: [@theneurocookies.bsky.social](https://bsky.app/profile/theneurocookies.bsky.social)
+BlueSky: [\@theneurocookies.bsky.social](https://bsky.app/profile/theneurocookies.bsky.social)
 
 GitHub: [René Skukies](https://github.com/ReneSkukies)
 
-## Education
+<details class="fold">
+<summary>Education</summary>
 
-*2020 - Present*: Dr. rer. nat./ PhD Computational Cognitive Science; University of Stuttgart - Centre for Simulation Science
+*Nov.2020 - April.2026*: Dr. rer. nat./ PhD Computational Cognitive Science; University of Stuttgart - Centre for Simulation Science
 
 *2018 - 2020*: M.Phil. Cognitive Neuroscience; University of Oslo \
 *Thesis: ['Validation of measures of consciousness using Propofol anaesthesia'](https://www.duo.uio.no/handle/10852/79300?show=full)* \
@@ -37,21 +44,12 @@ GitHub: [René Skukies](https://github.com/ReneSkukies)
 
 *2014 - 2017*: B.Sc. Psychology; Innsbruck University \
 *Thesis: 'Leader-Member-Exchange and Right-Wing-Authoritarianism: A political concept in an organisational setting'*
+</details>
 
+<details class="fold">
+<summary>Publications</summary>
 
-## Publications
+::: {#refs}
+:::
 
-**René Skukies**, Judith Schepers, Benedikt Ehinger; Brain responses vary in duration - modeling strategies and challenges. Imaging Neuroscience 2025; doi: https://doi.org/10.1162/IMAG.a.1003
-
-Bajwa, I.J., Nilsen, A.S., **Skukies, R.** et al. A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation. Sci Rep 15, 32746 (2025). https://doi.org/10.1038/s41598-025-12695-z
-
-Mikheev, V., **Skukies, R.**, & Ehinger, B. V. (2024). The Art of Brainwaves: A Survey on Event-Related Potential Visualization Practices. Aperture Neuro, 4. <https://doi.org/10.52294/001c.116386>
-
-**Skukies, R.**, & Ehinger, B. V. (2023). The effect of estimation time window length on overlap correction in EEG data (p. 2023.06.05.543689). bioRxiv. <https://doi.org/10.1101/2023.06.05.543689>
-
-
-**Skukies, R.**, & Ehinger, B. (2021). Modelling event duration and overlap during EEG analysis. Journal of Vision, 21(9), 2037. <https://doi.org/10.1167/jov.21.9.2037>
-
-**Skukies, R. S.** (2020). Validation of Measures of Consciousness using Propofol Anesthesia [Master thesis]. <https://www.duo.uio.no/handle/10852/79300>
-
-
+</details>
