@@ -4,7 +4,7 @@ title: "Impressum"
 
 ## Disclaimer
 
-Wondering if you can use any of the material on the website? Everything I personally made will be under the [CC-BY licence](https://creativecommons.org/licenses/by/3.0/de/legalcode), i.e. as long as you name me as author you should be good to go. If you're still unsure, just send me a message.
+Wondering if you can use any of the material on the website? Everything I personally made will be under the [CC-BY licence](https://creativecommons.org/licenses/by/4.0/legalcode.de), i.e. as long as you name me as author you should be good to go. If you're still unsure, just send me a message.
 
 ## Angaben gemäß § 5 DDG
 
@@ -35,7 +35,7 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 ### Urheberrecht
 
-Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen der [CC-BY Lizenz 3.0](https://creativecommons.org/licenses/by/3.0/de/legalcode). Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ist ohne weitere einschränkungen erlaubt, sofern der Autor bzw. Ersteller ausdrücklich genannt wird, etwaige Änderungen sichtlich gekennzeichnet und keine weiteren Einschränkungen hinzugefügt werden. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen der [CC-BY Lizenz 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.de). Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung ist ohne weitere einschränkungen erlaubt, sofern der Autor bzw. Ersteller ausdrücklich genannt wird, etwaige Änderungen sichtlich gekennzeichnet und keine weiteren Einschränkungen hinzugefügt werden. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
 ### Datenschutz
 
