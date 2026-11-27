@@ -2,6 +2,7 @@ project:
   pre-render: scripts/fetch-publications.ts
   render:
     - "*.qmd"
+    - "!blog/"  # blog hidden for now; remove this line and re-add the sidebar entry to re-enable
   type: website
   output-dir: _site
   resources:
@@ -17,27 +18,39 @@ website:
     style: docked
     search: false
     title: "TheNeuroCookies"
+    tools:
+      - icon: github
+        href: https://github.com/ReneSkukies
+        text: GitHub
+      - icon: bluesky
+        href: https://bsky.app/profile/theneurocookies.bsky.social
+        text: Bluesky
+      - icon: person-badge
+        href: https://orcid.org/0000-0002-4124-4584
+        text: ORCID
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=Pfm0Ix8AAAAJ&hl=en
+        text: Google Scholar
     contents:
       - text: Home
         href: index.qmd
-      - text: Blog
-        href: blog/index.qmd
       - text: Teaching Resources
         href: teaching/index.qmd
       - text: About Me
         href: AboutMe/index.qmd
   page-footer:
     center: >
-      &copy; René Skukies.
+      &copy; René Skukies. Content licensed under
+      <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>.
       Website built with <a href="https://quarto.org">Quarto</a>.
       <a href="/Impressum/">Impressum</a>
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles-dark.scss, styles.scss]
     toc: false
     lang: en
-    date-modified: last-modified
-    date-format: "D MMMM YYYY"
 
 author: "René Skukies"

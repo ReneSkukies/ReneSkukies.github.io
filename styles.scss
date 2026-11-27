@@ -9,6 +9,13 @@ $code-bg: #f5f6fa;
 $font-family-sans-serif: -apple-system, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 $font-size-root: 19px;
 $sidebar-bg: #f5f6fa;
+// do not load Google Fonts (sends visitor IPs to Google)
+$web-font-path: false;
+// colours that the dark theme (styles-dark.scss, loaded first) overrides
+$quote-bg: lemonchiffon !default;
+$quote-color: inherit !default;
+$quote-border: #a8a8a8 !default;
+$fold-border: #eeebee !default;
 
 /*-- scss:rules --*/
 @media (max-width: 500px) {
@@ -31,8 +38,9 @@ $sidebar-bg: #f5f6fa;
 .sidebar-item { font-size: 14px; }
 
 blockquote {
-  background: lemonchiffon;
-  border-left: 7px solid #a8a8a8;
+  background: $quote-bg;
+  color: $quote-color;
+  border-left: 7px solid $quote-border;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   font-style: italic;
@@ -43,6 +51,7 @@ blockquote p { display: inline; }
   float: right;
   margin: 0 0 1em 1em;
   text-align: center;
+  p { text-align: center; font-size: 0.8rem; margin: 0; }
   img { border-radius: 10px; max-width: 100%; height: auto; }
 }
 
@@ -53,7 +62,7 @@ th, td { font-size: 14px; }
 // Collapsible sections (Education, Publications): look like h2 headings
 details.fold {
   margin: 1rem 0;
-  border-bottom: 1px solid #eeebee;
+  border-bottom: 1px solid $fold-border;
   padding-bottom: 0.5rem;
   > summary {
     cursor: pointer;
@@ -73,3 +82,12 @@ details.fold {
   line-height: 1.4;
 }
 #refs .csl-entry:last-child { margin-bottom: 0; }
+
+// Phones: stack the portrait above the text instead of floating beside it
+@media (max-width: 575.98px) {
+  .about-portrait {
+    float: none;
+    margin: 0 auto 1em;
+    max-width: 70%;
+  }
+}

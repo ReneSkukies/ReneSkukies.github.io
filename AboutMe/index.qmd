@@ -11,7 +11,7 @@ filters:
 ::: {.about-portrait}
 ![](../assets/Portrait2_small.jpg){fig-alt="Portrait of René Skukies"}
 
-(c) SimTech/Max Kovalenko
+\(c) SimTech/Max Kovalenko
 :::
 
 Hey,
@@ -33,6 +33,10 @@ BlueSky: [\@theneurocookies.bsky.social](https://bsky.app/profile/theneurocookie
 
 GitHub: [René Skukies](https://github.com/ReneSkukies)
 
+ORCID: [0000-0002-4124-4584](https://orcid.org/0000-0002-4124-4584)
+
+Google Scholar: [René Skukies](https://scholar.google.com/citations?user=Pfm0Ix8AAAAJ&hl=en)
+
 <details class="fold">
 <summary>Education</summary>
 
@@ -51,5 +55,7 @@ GitHub: [René Skukies](https://github.com/ReneSkukies)
 
 ::: {#refs}
 :::
+
+Full list on [ORCID](https://orcid.org/0000-0002-4124-4584).
 
 </details>

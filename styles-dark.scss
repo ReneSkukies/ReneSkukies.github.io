@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+// Dark variant. Loaded BEFORE styles.scss, whose !default variables yield to these.
+$body-color: #c9c7cf;
+$body-bg: #1b1b1f;
+$headings-color: #ececf1;
+$link-color: #8fb0ff;
+$code-bg: #26262b;
+$quote-bg: #3a3827;
+$quote-color: #e6e2c3;
+$quote-border: #6f6f6f;
+$fold-border: #3a3a40;
+
+/*-- scss:rules --*/
+// The sidebar keeps its (light) background image, so keep dark text on it.
+#quarto-sidebar {
+  .sidebar-title,
+  .sidebar-title a,
+  .sidebar-item a,
+  .sidebar-item-text,
+  .sidebar-tools-main a,
+  .sidebar-tools-main .quarto-color-scheme-toggle {
+    color: #27262b !important;
+  }
+}
+
