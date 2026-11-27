@@ -9,6 +9,8 @@ $code-bg: #f5f6fa;
 $font-family-sans-serif: -apple-system, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
 $font-size-root: 19px;
 $sidebar-bg: #f5f6fa;
+// do not load Google Fonts (sends visitor IPs to Google)
+$web-font-path: false;
 
 /*-- scss:rules --*/
 @media (max-width: 500px) {
