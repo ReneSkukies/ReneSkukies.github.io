@@ -37,7 +37,5 @@ format:
     theme: [cosmo, styles.scss]
     toc: false
     lang: en
-    date-modified: last-modified
-    date-format: "D MMMM YYYY"
 
 author: "René Skukies"
