@@ -11,7 +11,7 @@ filters:
 ::: {.about-portrait}
 ![](../assets/Portrait2_small.jpg){fig-alt="Portrait of René Skukies"}
 
-(c) SimTech/Max Kovalenko
+\(c) SimTech/Max Kovalenko
 :::
 
 Hey,

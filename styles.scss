@@ -51,6 +51,7 @@ blockquote p { display: inline; }
   float: right;
   margin: 0 0 1em 1em;
   text-align: center;
+  p { text-align: center; font-size: 0.8rem; margin: 0; }
   img { border-radius: 10px; max-width: 100%; height: auto; }
 }
 
@@ -81,3 +82,12 @@ details.fold {
   line-height: 1.4;
 }
 #refs .csl-entry:last-child { margin-bottom: 0; }
+
+// Phones: stack the portrait above the text instead of floating beside it
+@media (max-width: 575.98px) {
+  .about-portrait {
+    float: none;
+    margin: 0 auto 1em;
+    max-width: 70%;
+  }
+}
