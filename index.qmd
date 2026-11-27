@@ -4,9 +4,6 @@ title: "Hey There!"
 
 Welcome to my Website! It is mainly thought of as a fun little project. 
 
-I'm also an active maintainer of the [Unfold.jl toolbox family](https://unfoldtoolbox.github.io/UnfoldDocs/main/). 
-
 If you don't know me, want to contact me or just feel like stalking me, head over to the [About Me](AboutMe/index.qmd) section.
 
-
-
+I'm also an active maintainer of the [Unfold.jl toolbox family](https://unfoldtoolbox.github.io/UnfoldDocs/main/), so be sure to check it out.
