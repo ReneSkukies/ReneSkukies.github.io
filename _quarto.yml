@@ -18,6 +18,19 @@ website:
     style: docked
     search: false
     title: "TheNeuroCookies"
+    tools:
+      - icon: github
+        href: https://github.com/ReneSkukies
+        text: GitHub
+      - icon: bluesky
+        href: https://bsky.app/profile/theneurocookies.bsky.social
+        text: Bluesky
+      - icon: person-badge
+        href: https://orcid.org/0000-0002-4124-4584
+        text: ORCID
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=Pfm0Ix8AAAAJ&hl=en
+        text: Google Scholar
     contents:
       - text: Home
         href: index.qmd
