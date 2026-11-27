@@ -17,7 +17,7 @@ aliases:
   - /blog/meta_science/index.html
 ---
 
-Here you can find the various entries of my blog. The blog is routhly divided in two sections: "Science" and "Meta- or Non-Science"
+Here you can find the various entries of my blog. The blog is roughly divided in two sections: "Science" and "Meta- or Non-Science"
 
 * "Science" includes topics which interest me during my research.
 
