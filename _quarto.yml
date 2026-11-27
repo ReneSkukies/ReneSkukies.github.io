@@ -46,7 +46,9 @@ website:
 
 format:
   html:
-    theme: [cosmo, styles.scss]
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [cosmo, styles-dark.scss, styles.scss]
     toc: false
     lang: en
 
