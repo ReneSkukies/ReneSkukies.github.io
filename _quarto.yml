@@ -25,9 +25,6 @@ website:
         href: teaching/index.qmd
       - text: About Me
         href: AboutMe/index.qmd
-    footer: >
-      Made with <em>Just the docs</em>, adapted from the
-      <a href="https://github.com/pmarsceill/just-the-docs" target="_blank">Jekyll theme</a>.
   page-footer:
     center: >
       &copy; René Skukies.

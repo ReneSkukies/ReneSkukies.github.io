@@ -18,7 +18,7 @@ $sidebar-bg: #f5f6fa;
 #quarto-sidebar,
 .sidebar.sidebar-navigation {
   background-color: #f5f6fa;
-  background-image: url("/assets/background/swiss.jpg");
+  background-image: url("./assets/background/swiss.jpg");
   background-size: auto;
 }
 
@@ -49,4 +49,3 @@ blockquote p { display: inline; }
 table { margin-left: auto; margin-right: auto; }
 th, td { font-size: 14px; }
 
-.sidebar-footer { font-size: 13px; }
