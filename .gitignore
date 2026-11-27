@@ -1,5 +1,5 @@
-__site/
+/_site/
+/.quarto/
+**/*.quarto_ipynb
 .DS_Store
-node_modules/
-package-lock.json
 .vscode

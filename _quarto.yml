@@ -1,0 +1,43 @@
+project:
+  pre-render: scripts/fetch-publications.ts
+  render:
+    - "*.qmd"
+  type: website
+  output-dir: _site
+  resources:
+    - CNAME
+
+website:
+  title: "TheNeuroCookies"
+  site-url: "https://reneskukies.de"
+  description: "René Skukies - personal website"
+  favicon: assets/cookie.png
+  draft-mode: gone
+  sidebar:
+    style: docked
+    search: false
+    title: "TheNeuroCookies"
+    contents:
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: Teaching Resources
+        href: teaching/index.qmd
+      - text: About Me
+        href: AboutMe/index.qmd
+  page-footer:
+    center: >
+      &copy; René Skukies.
+      Website built with <a href="https://quarto.org">Quarto</a>.
+      <a href="/Impressum/">Impressum</a>
+
+format:
+  html:
+    theme: [cosmo, styles.scss]
+    toc: false
+    lang: en
+    date-modified: last-modified
+    date-format: "D MMMM YYYY"
+
+author: "René Skukies"

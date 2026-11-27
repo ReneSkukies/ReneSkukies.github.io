@@ -1,0 +1,24 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  feed:
+    title: "the NeuroCookies Blog"
+page-layout: full
+aliases:
+  - /Blog/science/index.html
+  - /Blog/meta_science/index.html
+  - /blog/science/index.html
+  - /blog/meta_science/index.html
+---
+
+Here you can find the various entries of my blog. The blog is routhly divided in two sections: "Science" and "Meta- or Non-Science"
+
+* "Science" includes topics which interest me during my research.
+
+* "Meta-Science" includes everything I think important around life in academia.

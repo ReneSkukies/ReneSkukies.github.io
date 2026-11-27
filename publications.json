@@ -1,0 +1,226 @@
+[
+  {
+    "id": "10.1038/s41598-025-12695-z",
+    "DOI": "10.1038/s41598-025-12695-z",
+    "URL": "https://doi.org/10.1038/s41598-025-12695-z",
+    "type": "article-journal",
+    "title": "A repeated awakening study exploring the capacity of complexity measures to capture dreaming during propofol sedation",
+    "author": [
+      {
+        "family": "Bajwa",
+        "given": "Imad J."
+      },
+      {
+        "family": "Nilsen",
+        "given": "Andre S."
+      },
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Aamodt",
+        "given": "Arnfinn"
+      },
+      {
+        "family": "Ernst",
+        "given": "Gernot"
+      },
+      {
+        "family": "Storm",
+        "given": "Johan F."
+      },
+      {
+        "family": "Juel",
+        "given": "Bjørn E."
+      }
+    ],
+    "publisher": "Springer Science and Business Media LLC",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          9,
+          24
+        ]
+      ]
+    },
+    "container-title": "Scientific Reports",
+    "volume": "15",
+    "issue": "1",
+    "number": "32746"
+  },
+  {
+    "id": "10.1101/2023.06.05.543689",
+    "DOI": "10.1101/2023.06.05.543689",
+    "URL": "https://doi.org/10.1101/2023.06.05.543689",
+    "type": "article",
+    "title": "The effect of estimation time window length on overlap correction in EEG data",
+    "author": [
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Ehinger",
+        "given": "Benedikt V."
+      }
+    ],
+    "publisher": "bioRxiv",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          6,
+          7
+        ]
+      ]
+    },
+    "genre": "Preprint"
+  },
+  {
+    "id": "10.1162/IMAG.a.1003",
+    "DOI": "10.1162/IMAG.a.1003",
+    "URL": "https://doi.org/10.1162/IMAG.a.1003",
+    "type": "article-journal",
+    "title": "Brain responses vary in duration-modeling strategies and challenges",
+    "author": [
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Schepers",
+        "given": "Judith"
+      },
+      {
+        "family": "Ehinger",
+        "given": "Benedikt"
+      }
+    ],
+    "publisher": "MIT Press",
+    "issued": {
+      "date-parts": [
+        [
+          2025
+        ]
+      ]
+    },
+    "container-title": "Imaging Neuroscience",
+    "volume": "3",
+    "number": "IMAG.a.1003"
+  },
+  {
+    "id": "10.1167/jov.21.9.2037",
+    "DOI": "10.1167/jov.21.9.2037",
+    "URL": "https://doi.org/10.1167/jov.21.9.2037",
+    "type": "article-journal",
+    "title": "Modelling event duration and overlap during EEG analysis",
+    "author": [
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Ehinger",
+        "given": "Benedikt"
+      }
+    ],
+    "publisher": "Association for Research in Vision and Ophthalmology (ARVO)",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9,
+          27
+        ]
+      ]
+    },
+    "container-title": "Journal of Vision",
+    "volume": "21",
+    "issue": "9",
+    "page": "2037"
+  },
+  {
+    "id": "10.31234/osf.io/p4cu7_v1",
+    "DOI": "10.31234/osf.io/p4cu7_v1",
+    "URL": "https://doi.org/10.31234/osf.io/p4cu7_v1",
+    "type": "article",
+    "title": "UnfoldBIDS.jl: Streamlining regression ERP Analysis of BIDS-Compliant EEG Data in Julia",
+    "author": [
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Ehinger",
+        "given": "Benedikt Valerian"
+      }
+    ],
+    "publisher": "PsyArXiv",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          21
+        ]
+      ]
+    },
+    "genre": "Preprint"
+  },
+  {
+    "id": "10.52294/001c.116386",
+    "DOI": "10.52294/001c.116386",
+    "URL": "https://doi.org/10.52294/001c.116386",
+    "type": "article-journal",
+    "title": "The art of brainwaves: A survey on event-related potential visualization practices",
+    "author": [
+      {
+        "family": "Mikheev",
+        "given": "Vladimir"
+      },
+      {
+        "family": "Skukies",
+        "given": "René"
+      },
+      {
+        "family": "Ehinger",
+        "given": "Benedikt V."
+      }
+    ],
+    "publisher": "Organization for Human Brain Mapping",
+    "issued": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          26
+        ]
+      ]
+    },
+    "container-title": "Aperture Neuro",
+    "volume": "4"
+  },
+  {
+    "id": "skukies2020thesis",
+    "type": "thesis",
+    "title": "Validation of measures of consciousness using propofol anesthesia",
+    "genre": "Master's thesis",
+    "publisher": "University of Oslo",
+    "author": [
+      {
+        "family": "Skukies",
+        "given": "René"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "URL": "https://hdl.handle.net/10852/79300"
+  }
+]

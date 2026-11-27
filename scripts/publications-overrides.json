@@ -1,0 +1,17 @@
+{
+  "_comment": "exclude: DOIs to hide. patch: DOI -> CSL fields to overwrite. extra: hand-written CSL-JSON entries for works without a DOI (ORCID only has a handle for the thesis).",
+  "exclude": [],
+  "patch": {},
+  "extra": [
+    {
+      "id": "skukies2020thesis",
+      "type": "thesis",
+      "title": "Validation of measures of consciousness using propofol anesthesia",
+      "genre": "Master's thesis",
+      "publisher": "University of Oslo",
+      "author": [{ "family": "Skukies", "given": "René" }],
+      "issued": { "date-parts": [[2020]] },
+      "URL": "https://hdl.handle.net/10852/79300"
+    }
+  ]
+}
