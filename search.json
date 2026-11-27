@@ -113,17 +113,7 @@
     "href": "index.html",
     "title": "Hey There!",
     "section": "",
-    "text": "Welcome to my Website! It is mainly thought of as a fun little project.\nMaybe I’ll try to start a blog1, where I will give my two cents on various scientific as well as meta-scientific topics (e.g. mental health; climate justice in academia).\nI’m also an active maintainer of the Unfold.jl toolbox family.\nIf you don’t know me, want to contact me or just feel like stalking me, head over to the About Me section.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Hey There!",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nUpdate 2025: that really didn’t work out so far…↩︎",
+    "text": "Welcome to my Website! It is mainly thought of as a fun little project.\nIf you don’t know me, want to contact me or just feel like stalking me, head over to the About Me section.\nI’m also an active maintainer of the Unfold.jl toolbox family, so be sure to check it out.",
     "crumbs": [
       "Home"
     ]
